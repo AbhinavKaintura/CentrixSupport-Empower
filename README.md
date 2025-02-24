@@ -46,7 +46,7 @@ The chatbot is built to fulfill the following objectives:
 
  **Clone the repository**:
    ```bash
-    https://github.com/AbhinavKaintura/CentrixSupport-Empower.git
+   git clone https://github.com/AbhinavKaintura/CentrixSupport-Empower.git
    cd CentrixSupport-Empower
 ```
 This command installs all necessary Python packages for the backend, as listed in the requirements.txt file.
