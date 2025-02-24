@@ -16,8 +16,8 @@ The chatbot is built to fulfill the following objectives:
 - **Model**: Utilizes the Gqor Large Language Model (LLM) to process and generate contextually relevant answers to user queries.
 
 ## Working Flow of the Project
+![architecture](https://github.com/user-attachments/assets/3c01d14f-59bb-47cd-846b-966841b5bc14)
 
-![Architecture](img/architecture.jpg)
 
 ## Key Features
 
